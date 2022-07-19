@@ -3,4 +3,5 @@
 
 Various Monaco Fonts with Ligatures and NerdFont applied.
 
-![windows](/images/LigaMonacoNerdFontComplete.jpg)
+### Windows (Liga Monaco Nerd Font Complete.ttf)
+![windows](./images/LigaMonacoNerdFontComplete.png)
